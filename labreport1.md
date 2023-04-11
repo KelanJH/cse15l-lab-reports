@@ -1,7 +1,7 @@
 **Lab Report 1 - Remote Access and FileSystem (Week 1)**
 
 **Step 1. Find your CSE15L Account**
-To access your course-specific account for CSE15L, you can visit the website[Link](https://sdacs.ucsd.edu/~icc/index.php) 
+To access your course-specific account for CSE15L, you can visit the website: [Link](https://sdacs.ucsd.edu/~icc/index.php) 
 Once you're on the website, you can find your account information by entering your UCSD email address and password. 
 If you encounter any issues logging in, you can follow the tutorial provided on the website for resetting your password.
 
