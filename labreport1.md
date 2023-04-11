@@ -29,7 +29,7 @@ Once you are logged in, your terminal will be connected to a computer in the CSE
 
 **This should be what it looks like when you first connect:** 
 
-![Image](first%20connect.png)
+![Image](first connect.png)
 
 **Step 5. Run some Example Commands**
 1. Open the terminal on your computer and on the remote computer after ssh-ing (use the terminal in VScode). 
