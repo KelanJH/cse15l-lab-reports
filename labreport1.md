@@ -11,7 +11,7 @@ If you don't already have it, you can download it from the website: [Visual Stud
 
 **Your VS Code should look something like this when you first install it:**
 
-![vscode,png](https://github.com/KelanJH/cse15l-lab-reports/blob/main/vscode.png)
+[vscode,png](https://github.com/KelanJH/cse15l-lab-reports/blob/main/vscode.png)
 
 **Step 3. Installing and using Bash**
 If you're using Windows, the first step to accessing a course-specific account in CSE is to install Git for Windows. 
