@@ -11,7 +11,7 @@ If you don't already have it, you can download it from the website: https://code
 
 **Your VS Code should look something like this when you first install it:**
 
-![VSCode](https://github.com/KelanJH/cse15l-lab-reports/blob/main/vscode.png)
+[vscode,png](https://github.com/KelanJH/cse15l-lab-reports/blob/main/vscode.png)
 
 **Step 3. Installing and using Bash**
 If you're using Windows, the first step to accessing a course-specific account in CSE is to install Git for Windows. 
@@ -29,7 +29,7 @@ Once you are logged in, your terminal will be connected to a computer in the CSE
 
 **This should be what it looks like when you first connect:** 
 
-![FirstConnect](https://github.com/KelanJH/cse15l-lab-reports/blob/main/first%20connect.png)
+[FirstConnect](https://github.com/KelanJH/cse15l-lab-reports/blob/main/first%20connect.png)
 
 **Step 5. Run some Example Commands**
 1. Open the terminal on your computer and on the remote computer after ssh-ing (use the terminal in VScode). 
@@ -42,5 +42,5 @@ Once you are logged in, your terminal will be connected to a computer in the CSE
 
 **Here is an example of one of those outputs:**
 
-![ExampleCommands](https://github.com/KelanJH/cse15l-lab-reports/blob/main/example%20commands.png)
+[ExampleCommands](https://github.com/KelanJH/cse15l-lab-reports/blob/main/example%20commands.png)
 
