@@ -1,13 +1,13 @@
 **Lab Report 1 - Remote Access and FileSystem (Week 1)**
 
 **Step 1. Find your CSE15L Account**
-To access your course-specific account for CSE15L, you can visit the website: [Link](https://sdacs.ucsd.edu/~icc/index.php) 
+To access your course-specific account for CSE15L, you can visit the website:  [Account Info](https://sdacs.ucsd.edu/~icc/index.php) 
 Once you're on the website, you can find your account information by entering your UCSD email address and password. 
 If you encounter any issues logging in, you can follow the tutorial provided on the website for resetting your password.
 
 **Step 2. Installing VS Code**
 Before you start, you need to have VS Code installed on your computer. 
-If you don't already have it, you can download it from the website: [Link](https://code.visualstudio.com/)
+If you don't already have it, you can download it from the website: [Visual Studio Code](https://code.visualstudio.com/)
 
 **Your VS Code should look something like this when you first install it:**
 
@@ -16,9 +16,9 @@ If you don't already have it, you can download it from the website: [Link](https
 **Step 3. Installing and using Bash**
 If you're using Windows, the first step to accessing a course-specific account in CSE is to install Git for Windows. 
 This comes with some useful tools that are needed for the process. 
-You can download and install Git for Windows by visiting [Link](https://gitforwindows.org/)
+You can download and install Git for Windows by visiting [Git](https://gitforwindows.org/)
 After installing Git for Windows, you need to set the default terminal in Visual Studio Code to use the newly-installed Git Bash. 
-This can be done by following the steps provided in this post on Stack Overflow: [Link](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) 
+This can be done by following the steps provided in this post on Stack Overflow: [Git Bash](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) 
 By doing this, you'll be able to access the Git Bash terminal from within Visual Studio Code on Windows.
 
 **Step 4. Remotely Connecting**
