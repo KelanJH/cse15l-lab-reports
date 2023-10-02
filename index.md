@@ -1,2 +1,2 @@
-#Lab Report #1
+# Heading 1
 ![Image](Dog_Breeds.jpg)
