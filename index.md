@@ -1,2 +1,2 @@
-# Lab 1
+# Lab #1
 ![Image](Dog_Breeds.jpg)
