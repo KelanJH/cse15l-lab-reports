@@ -28,7 +28,9 @@ Output: Error. It indicates that the specified path is not a directory.
 
 **Example 1** -Using the 'ls' command with no arguments:
 
+
 ![Image](ls.png)
+
 
 Working Directory:
 Explanation: When ls is used with no arguments, it lists the files and directories in the current working directory.
